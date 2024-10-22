@@ -8,7 +8,7 @@
 
 ## 🤳🏻 Socials:
 
-![alt text][1.1]
+![alt text][1.1][1]
 
 [1.1]: https://imgur.com/0QurKs6.png
 
